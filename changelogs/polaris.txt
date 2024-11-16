@@ -1,6 +1,0 @@
-Recovery: https://sourceforge.net/projects/evolution-x/files/polaris/14/recovery/recovery.img/download
-super_empty.img: https://sourceforge.net/projects/evolution-x/files/polaris/14/super_empty/super_empty.img/download
-
-This is Android 14 with September 2024 security patches
-
-This update contains "only" september security patches.
